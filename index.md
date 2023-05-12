@@ -1,3 +1,5 @@
 # index.md
 
-[page01](page01.md)
+
+## コンテンツ
+* [限定ガチャ履歴](doc/exclusive.md)
