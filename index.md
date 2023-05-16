@@ -1,5 +1,6 @@
 ## コンテンツ
 * [限定ガチャ履歴](doc/exclusive.md)
+* [連合作戦](doc/jointoperation.md)
 
 ## やることメモ
 * 虚空のアビスのバフリストを作る
