@@ -5,7 +5,7 @@ title: Home
 
 
 ## コンテンツ
-* [限定ガチャ履歴](doc/exclusive.md)
+* [限定ガチャ](doc/exclusive.md)
 * [連合作戦](doc/jointoperation.md)
 * [放置狩り](doc/unmannedhunting.md)
 
