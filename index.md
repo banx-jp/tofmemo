@@ -1,3 +1,9 @@
+---
+layout: home
+title: aaaa
+---
+
+
 ## コンテンツ
 * [限定ガチャ履歴](doc/exclusive.md)
 * [連合作戦](doc/jointoperation.md)
