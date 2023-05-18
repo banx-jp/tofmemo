@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: page
 title: 連合作戦
 ---
 
