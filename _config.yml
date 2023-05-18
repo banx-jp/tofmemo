@@ -7,4 +7,4 @@ twitter_username: BanxTera
 # navigation links
 header_pages :
   - index.md
-  - exclusive.md
+  - doc/exclusive.md
