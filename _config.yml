@@ -1,4 +1,10 @@
 theme : minima
 title : tofmemo
+
 # sicual links
 twitter_username: BanxTera
+
+# navigation links
+header_pages :
+  - index.md
+  - exclusive.md
