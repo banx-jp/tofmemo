@@ -1,11 +1,11 @@
 ## コンテンツ
 * [限定ガチャ履歴](doc/exclusive.md)
 * [連合作戦](doc/jointoperation.md)
+* [放置狩り](doc/unmannedhunting.md)
 
 ## やることメモ
 * 虚空のアビスのバフリストを作る
 * 起源の戦域のバフリストを作る
-* 放置狩りについてまとめる
 
 ---
 *@Banx*
