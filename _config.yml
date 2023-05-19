@@ -1,10 +1,17 @@
+# site
 theme : minima
 title : tofmemo
+description : Tower of Fantasy Memo
 
 # sicual links
-twitter_username: BanxTera
+twitter_username : BanxTera
+github_username : bbbbbanx
+author : hogehoge@gmail.com
+url : https://banx-jp.github.io/tofmemo/
 
 # navigation links
 header_pages :
   - index.md
   - doc/exclusive.md
+  - doc/jointoperation.md
+  - doc/unmannedhunting.md
