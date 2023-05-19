@@ -1,6 +1,7 @@
 # site
-#theme : minima
-theme : jekyll-theme-slate
+theme : minima
+minima :
+  skin: dark
 title : tofmemo
 description : Tower of Fantasy Memo
 
