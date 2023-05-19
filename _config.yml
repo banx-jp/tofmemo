@@ -1,7 +1,5 @@
 # site
 theme : minima
-minima :
-  skin: dark
 title : tofmemo
 description : Tower of Fantasy Memo
 
