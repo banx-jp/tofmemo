@@ -19,6 +19,57 @@ title: 起源の戦域
 | 装備 | アイコン | バフ名 | 効果 |
 | :--: | :--: | --- | --- |
 | 左上 | ![image](img/originofwar_img001.png) | 炎ダメージUPⅠ/Ⅱ/Ⅲ/Ⅳ/Ⅴ | 炎ダメージ+10%/20%/30%/40%/50% |
+| 左上 | ![image](img/originofwar_img002.png) | 氷ダメージUPⅠ/Ⅱ/Ⅲ/Ⅳ/Ⅴ | 氷ダメージ+10%/20%/30%/40%/50% |
+| 左上 | ![image](img/originofwar_img003.png) | 雷ダメージUPⅠ/Ⅱ/Ⅲ/Ⅳ/Ⅴ | 雷ダメージ+10%/20%/30%/40%/50% |
+| 左上 | ![image](img/originofwar_img004.png) | 物理ダメージUPⅠ/Ⅱ/Ⅲ/Ⅳ/Ⅴ | 物理ダメージ+10%/20%/30%/40%/50% |
+| 右上 | ![image](img/originofwar_img005.png) | アルカイオスⅠ/Ⅱ/Ⅲ | 戦闘開始後、攻撃力+10%/15%/20% |
+| 右上 | ![image](img/originofwar_img006.png) | バースト達人Ⅰ/Ⅱ/Ⅲ | 会心ダメージ+10%/15%/20% |
+| 右上 | ![image](img/originofwar_img007.png) | 支援の手Ⅰ/Ⅱ/Ⅲ | 半径10m以内の味方(自身を含まない)の最終ダメージ+5%/10%/15% |
+| 右上 | ![image](img/originofwar_img008.png) | 癒しの天使Ⅰ/Ⅱ/Ⅲ | 回復効果+15%/30%/50% |
+| 右上 | ![image](img/originofwar_img009.png) | 強力タンクⅠ/Ⅱ/Ⅲ | 最大HP+120000/+300000/+600000 |
+| 左 | ![image](img/originofwar_img010.png) | 治療制御 | ダメージを与えた時、ターゲットが受ける回復効果-60%、5秒持続 |
+| 左 | ![image](img/originofwar_img011.png) | 異能グローブ | ダメージを与えた時、攻撃力x1500%の異能ダメージを1回付与、クールダウン10秒 |
+| 左 | ![image](img/originofwar_img012.png) | 血の渇望 | 現在のHPが低いほど与えるダメージが多くなり、最大40%UPする |
+| 左 | ![image](img/originofwar_img013.png) | 斬殺 | ターゲットの現在のHPが10%未満の場合、倒すことができる |
+| 左 | ![image](img/originofwar_img014.png) | 狂戦士 | 自身の現在のHPが低いほど与えるダメージが多くなり、最大40%UPする |
+| 右 | ![image](img/originofwar_img015.png) | 避雷針 | 優先的に落雷のターゲットになる |
+| 右 | ![image](img/originofwar_img016.png) | 攻撃解消 | ダメージを与えた時、ターゲットに付与された攻撃バフを解消、クールダウン30秒 |
+| 右 | ![image](img/originofwar_img017.png) | サーマルイメージング | 燃焼のダメージ+25% |
+| 左下 | ![image](img/originofwar_img018.png) | 静電ブロック | 雷ダメージを1回無効化、クールダウン4.5秒 |
+| 左下 | ![image](img/originofwar_img019.png) | 断熱削磁 | 感電ターゲットへの氷ダメージ+50% |
+| 左下 | ![image](img/originofwar_img020.png) | 異能への恐れ | 異能被ダメージ+30%、異能以外の被ダメージ-30% |
+| 左下 | ![image](img/originofwar_img021.png) | 異能アーマー | 異能被ダメージ-30%、異能以外の被ダメージ+30% |
+| 左下 | ![image](img/originofwar_img022.png) | 熱核融合 | 重傷状態のターゲットへの炎ダメージ+50% |
+| 左下 | ![image](img/originofwar_img023.png) | ハイパワー物理 | 燃焼状態のターゲットへの物理ダメージ+50% |
+| 左下 | ![image](img/originofwar_img024.png) | 低温超電導 | 凍傷ターゲットへの雷ダメージ+50% |
+| 左下 | ![image](img/originofwar_img025.png) | 緊急防御 | 自身の現在のHPが10%未満の場合、被ダメージ-80% |
+| 右下 | ![image](img/originofwar_img026.png) | 時間強化 | 毎秒、自身の攻撃力x1%UPし、最大で攻撃力x30%までスタックできる |
+| 右下 | ![image](img/originofwar_img027.png) | 鉄人 | スタミナ消費-30%、移動速度+20% |
+| 右下 | ![image](img/originofwar_img028.png) | 勇気の心Ⅰ/Ⅱ | 毎秒、HPの1.2%/2.5%を回復 |
+| ? | ![image](img/originofwar_img029.png) | 凍結の達人 | 凍傷ターゲットへの会心率+50% |
+| ? | ![image](img/originofwar_img030.png) | 氷の麗人 | ダメージ+20%、ただし凍傷状態になるごとに凍傷時間+2秒 |
+| ? | ![image](img/originofwar_img031.png) | 凍結防止 | 凍結状態にされない |
+| ? | ![image](img/originofwar_img032.png) | 潜む危険 | 炎被ダメージ+50% |
+| ? | ![image](img/originofwar_img033.png) | 燃焼フィールド | 60秒ごとにすべての敵ターゲットに燃焼状態にし、30秒持続 |
+| ? | ![image](img/originofwar_img034.png) | 落雷 | フィールド内で5秒ごとに任意のユニットに落雷し（【避雷針】を持つユニットが優先）、300000のダメージを与える |
+| ? | ![image](img/originofwar_img035.png) | 感電フィールド | 60秒ごとにすべての敵ターゲットに感電状態にし、30秒持続 |
+| ? | ![image](img/originofwar_img036.png) | 重傷フィールド | 60秒ごとにすべての敵ターゲットに重傷状態にし、30秒持続 |
+| ? | ![image](img/originofwar_img037.png) | 凍傷フィールド | 60秒ごとにすべての敵ターゲットに凍傷状態にし、30秒持続 |
+| ? | ![image](img/originofwar_img038.png) | 増幅器 | 攻撃バフが5倍になる |
+| ? | ![image](img/originofwar_img039.png) | 恐怖の地 | フィールド内ではHPが減少し続ける。毎秒最大HPの5％を失い、かつHP回復が-80％。ただし【勇気の心】で回復効果が2倍 |
+| ? | ![image](img/originofwar_img040.png) | そよ風 | エリア内に時々ハリケーンが吹き、ターゲットを吹き飛ばす。不屈無視 |
+| ? | ![image](img/originofwar_img041.png) | 禁足 | 命中したターゲットに禁足を追加、5秒間持続。ターゲットが1m移動するごとに攻撃力x200%のダメージを与える。毎秒の累計ダメージは最大400% |
+| ? | ![image](img/originofwar_img042.png) | レーザーバリア | エリア内に移動するレーザーが出現し毎回キャラに最大HPx15%のダメージを与える |
+| ? | ![image](img/originofwar_img043.png) | 防爆装甲Ⅰ/Ⅱ | バイオレンスアップによる被ダメージ-80%/90% |
+| ? | ![image](img/originofwar_img044.png) | 灼熱の地 | キャラが燃焼を受け続け、最大HPx1%を毎秒失う |
+| ? | ![image](img/originofwar_img045.png) | 低温アイスブレイク | 凍傷ターゲットへの物理ダメージ+50% |
+| ? | ![image](img/originofwar_img046.png) | ニヒリティ | 2.5秒ごとに被ダメージを1回無効化する |
+| ? | ![image](img/originofwar_img047.png) | バイオレンスアップ | 2秒ごとに自身はバースト値を1スタック累積する。5スタックになると爆発し、周囲にいる敵味方無差別のターゲットに攻撃力x3000%の炎ダメージを与える |
+| ? | ![image](img/originofwar_img048.png) | 電気伝導 | 雷被ダメージ+30% |
+| ? | ![image](img/originofwar_img049.png) | ブラックホール | 40秒ごとにターゲットをロックオンし、自動でブラックホールを放つ。ブラックホールは20秒間持続。攻撃力x200%のダメージを毎秒与える |
+| ? | ![image](img/originofwar_img050.png) | コアバースト | 燃焼ターゲットへの雷ダメージ+50% |
+| ? | ![image](img/originofwar_img051.png) | 重量化 | 体が重くなり、吹き飛ばされない |
+
 
 ## ゲーム内プレイ説明
 ### 起源の戦域
