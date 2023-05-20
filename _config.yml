@@ -1,5 +1,6 @@
 # site
-theme : minima
+#theme : minima
+theme : jekyll-theme-minimal
 title : tofmemo
 description : Tower of Fantasy Memo
 
