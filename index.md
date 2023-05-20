@@ -3,9 +3,10 @@ layout: home
 title: Home
 ---
 
-## 
+## ネタ
 * [ルーティーン](doc/routine.md)
 * [放置狩り](doc/unmannedhunting.md)
+* [ワールドレベル](doc/dimensionlevel.md)
 
 ## マルチ
 * [連合作戦](doc/jointoperation.md)
