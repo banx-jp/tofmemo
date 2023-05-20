@@ -9,6 +9,7 @@ title: Home
 * [連合作戦](doc/jointoperation.md)
 * [放置狩り](doc/unmannedhunting.md)
 * [虚空のアビス](doc/voidrifts.md)
+* [在りし日の幻](doc/phantom.md)
 
 ## やることメモ
 * 起源の戦域のバフリストを作る
