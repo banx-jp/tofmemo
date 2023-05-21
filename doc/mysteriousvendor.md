@@ -24,7 +24,7 @@
 | 連合補給チップⅠx1 | 繊維素材x200 | 3～4 |
 
 ## みつけた場所
-![img](img/mysteriousvendor_img002.webp)
+![img](img/mysteriousvendor_img002.png)
 
 ## ゲーム内プレイ説明
 ### 謎の商人
