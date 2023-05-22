@@ -7,6 +7,7 @@ title: Home
 * [ルーティーン](doc/routine.md)
 * [放置狩り](doc/unmannedhunting.md)
 * [ワールドレベル](doc/dimensionlevel.md)
+* [翻訳](doc/translation.md)
 
 ## マルチ
 * [連合作戦](doc/jointoperation.md)
