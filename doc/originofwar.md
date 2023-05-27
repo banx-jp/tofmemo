@@ -38,6 +38,7 @@ title: 起源の戦域
 | 右 | ![image](img/originofwar_img016.png) | 攻撃解消 | ダメージを与えた時、ターゲットに付与された攻撃バフを解消、クールダウン30秒 |
 | 右 | ![image](img/originofwar_img017.png) | サーマルイメージング | 燃焼のダメージ+25% |
 | 右 | ![image](img/originofwar_img043.png) | 防爆装甲Ⅰ/Ⅱ | バイオレンスアップによる被ダメージ-80%/90% |
+| 右 | ![image](img/originofwar_img051.png) | 重量化 | 体が重くなり、吹き飛ばされない |
 | 左下 | ![image](img/originofwar_img018.png) | 静電ブロック | 雷ダメージを1回無効化、クールダウン4.5秒 |
 | 左下 | ![image](img/originofwar_img019.png) | 断熱削磁 | 感電ターゲットへの氷ダメージ+50% |
 | 左下 | ![image](img/originofwar_img020.png) | 異能への恐れ | 異能被ダメージ+30%、異能以外の被ダメージ-30% |
@@ -70,7 +71,6 @@ title: 起源の戦域
 | - | ![image](img/originofwar_img048.png) | 電気伝導 | 雷被ダメージ+30% |
 | - | ![image](img/originofwar_img049.png) | ブラックホール | 40秒ごとにターゲットをロックオンし、自動でブラックホールを放つ。ブラックホールは20秒間持続。攻撃力x200%のダメージを毎秒与える |
 | - | ![image](img/originofwar_img050.png) | コアバースト | 燃焼ターゲットへの雷ダメージ+50% |
-| - | ![image](img/originofwar_img051.png) | 重量化 | 体が重くなり、吹き飛ばされない |
 
 
 ## ゲーム内プレイ説明
