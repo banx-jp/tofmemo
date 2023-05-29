@@ -1,5 +1,8 @@
 # タイタン装備
 
+## タイタン化した時のイメージ
+[img](doc/img/equipmentaugmentation_img001.png)
+
 ## レアステータス
 ### ダメージUPレベル
 * 与ダメージがアップする
