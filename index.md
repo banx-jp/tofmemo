@@ -6,10 +6,8 @@ title: Home
 ![logo](tofmemo2_light.png)
 
 [![Twitter](index_account_twitter.png)](https://twitter.com/BanxTera)
-[![Discord](index_account_discord.png)](discordapp.com/users/Banx#5572)
+[![Discord](index_account_discord.png)](https://discordapp.com/users/Banx#5572)
 [![github](index_account_github.png)](https://banx-jp.github.io/tofmemo/)
-
-[![侍エンジニアブログ](C:UsersSiroDesktopsamurai_blog.png)](https://www.sejuku.net/blog/)
 
 ## ネタ
 * [ルーティーン](doc/routine.md)
