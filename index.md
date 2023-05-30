@@ -5,10 +5,6 @@ title: Home
 
 ![logo](tofmemo2_light.png)
 
-[![Twitter](index_account_twitter.png)](https://twitter.com/BanxTera)
-[![Discord](index_account_discord.png)](https://discordapp.com/users/Banx#5572)
-[![github](index_account_github.png)](https://banx-jp.github.io/tofmemo/)
-
 ## ネタ
 * [ルーティーン](doc/routine.md)
 * [放置狩り](doc/unmannedhunting.md)
@@ -28,3 +24,7 @@ title: Home
 ## 課金
 * [限定ガチャ](doc/exclusive.md)
 
+# Social Account
+[![Twitter](index_account_twitter.png)](https://twitter.com/BanxTera)
+[![Discord](index_account_discord.png)](https://discordapp.com/users/Banx#5572)
+[![github](index_account_github.png)](https://banx-jp.github.io/tofmemo/)
