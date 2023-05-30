@@ -3,7 +3,7 @@ layout: home
 title: Home
 ---
 
-![logo](tofmemo_light.png)
+![logo](tofmemo2_light.png)
 
 ## ネタ
 * [ルーティーン](doc/routine.md)
