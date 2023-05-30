@@ -3,6 +3,8 @@ layout: home
 title: Home
 ---
 
+![logo](tofmemo_light.png)
+
 ## ネタ
 * [ルーティーン](doc/routine.md)
 * [放置狩り](doc/unmannedhunting.md)
