@@ -20,7 +20,10 @@ title: Home
 ## Billing
 * [限定ガチャ](doc/exclusive.md)
 
-## Social Account
+## etc
+* [アップデート履歴](doc/updatehistory.md)
+
+###### Social
 [![Twitter](index_account_twitter.png)](https://twitter.com/BanxTera)
 [![Discord](index_account_discord.png)](https://discordapp.com/users/Banx#5572)
 [![github](index_account_github.png)](https://banx-jp.github.io/tofmemo/)
