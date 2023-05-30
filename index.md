@@ -3,7 +3,16 @@ layout: home
 title: Home
 ---
 
-![logo](tofmemo2_light.png)
+![logo](doc/img/tofmemo2_light.png)
+
+![tofver](doc/img/index_tofver10.png)
+![tofver](doc/img/index_tofver15.png)
+![tofver](doc/img/index_tofver20.png)
+![tofver](doc/img/index_tofver21.png)
+![tofver](doc/img/index_tofver22.png)
+![tofver](doc/img/index_tofver23.png)
+![tofver](doc/img/index_tofver24.png)
+![tofver](doc/img/index_tofver25.png)
 
 ## Contents
 * [ルーティーン](doc/routine.md)
@@ -24,6 +33,6 @@ title: Home
 * [アップデート履歴](doc/updatehistory.md)
 
 ###### Social
-[![Twitter](index_account_twitter.png)](https://twitter.com/BanxTera)
-[![Discord](index_account_discord.png)](https://discordapp.com/users/Banx#5572)
-[![github](index_account_github.png)](https://banx-jp.github.io/tofmemo/)
+[![Twitter](doc/img/index_account_twitter.png)](https://twitter.com/BanxTera)
+[![Discord](doc/img/index_account_discord.png)](https://discordapp.com/users/Banx#5572)
+[![github](doc/img/index_account_github.png)](https://banx-jp.github.io/tofmemo/)
