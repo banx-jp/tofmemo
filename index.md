@@ -30,6 +30,7 @@ title: Home
 * [限定ガチャ](doc/exclusive.md)
 
 ## etc
+* [アルケー](doc/Shards.md)
 * [アップデート履歴](doc/updatehistory.md)
 
 ###### Social
