@@ -1,4 +1,4 @@
-![image](https://github.com/banx-jp/tofmemo/assets/113221441/97a2e8c9-6da3-4923-b03c-77889c202256)---
+---
 layout: page
 title: 連合作戦
 ---
