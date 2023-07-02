@@ -25,6 +25,7 @@ title: Home
 * [在りし日の幻](doc/phantom.md)
 * [起源の戦域](doc/originofwar.md)
 * [謎の商人](doc/mysteriousvendor.md)
+* [九域](doc/domain9.md)
 
 ## Billing
 * [限定ガチャ](doc/exclusive.md)
