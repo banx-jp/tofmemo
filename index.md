@@ -34,6 +34,7 @@ title: Home
 * [アルケー](doc/Shards.md)
 * [アップデート履歴](doc/updatehistory.md)
 * [ver3.0 update](doc/update3.0.md)
+* [ver3.1 update](doc/update3.1.md)
 
 ###### Social
 [![Twitter](doc/img/index_account_twitter.png)](https://twitter.com/BanxTera)
