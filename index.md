@@ -29,6 +29,7 @@ title: Home
 
 ## Billing
 * [限定ガチャ](doc/exclusive.md)
+* [BOXガチャ](doc/exclusive_box.md)
 
 ## etc
 * [アルケー](doc/Shards.md)
