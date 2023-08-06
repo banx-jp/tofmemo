@@ -28,6 +28,7 @@ title: Home
 * [九域](doc/domain9.md)
 
 ## Billing
+* [課金効率](doc/billing.md)
 * [限定ガチャ](doc/exclusive.md)
 * [BOXガチャ](doc/exclusive_box.md)
 
