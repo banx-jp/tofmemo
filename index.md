@@ -15,6 +15,7 @@ title: Home
 ![tofver](doc/img/index_tofver25.png)
 ![tofver](doc/img/index_tofver30.png)
 ![tofver](doc/img/index_tofver31.png)
+
 ## Contents
 * [ルーティーン](doc/routine.md)
 * [放置狩り](doc/unmannedhunting.md)
