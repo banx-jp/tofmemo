@@ -28,6 +28,7 @@ title: Home
 * [起源の戦域](doc/originofwar.md)
 * [謎の商人](doc/mysteriousvendor.md)
 * [九域](doc/domain9.md)
+* [討伐作戦](doc/raid.md)
 
 ## Billing
 * [課金効率](doc/billing.md)
