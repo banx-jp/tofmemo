@@ -1,11 +1,15 @@
 # 九域
 
-## 便利マップ（動源復活ポイント）
 ![](img/domain9_img003.png)
 ![](img/domain9_img004.png)
+![](img/domain9_img005.png)
+
+## 便利マップ（動源復活ポイント）
+[![画像](img/domain9_img003.png)](img/domain9_img003.png)
+[![画像](img/domain9_img004.png)](img/domain9_img004.png)
 
 ## 便利マップ（商店）
-![](img/domain9_img005.png)
+[![画像](img/domain9_img005.png)](img/domain9_img005.png)
 
 ## デイリークエスト
 * 黄水精
