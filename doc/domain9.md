@@ -1,9 +1,5 @@
 # 九域
 
-![](img/domain9_img003.png)
-![](img/domain9_img004.png)
-![](img/domain9_img005.png)
-
 ## 便利マップ（動源復活ポイント）
 [![画像](img/domain9_img003.png)](img/domain9_img003.png)
 [![画像](img/domain9_img004.png)](img/domain9_img004.png)
