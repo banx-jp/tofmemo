@@ -31,7 +31,7 @@ title: Home
 * [討伐作戦](doc/raid.md)
 * [辺境戦闘地帯](doc/frontierclash.md)
 * [ギルド](doc/guild.md)
-* [ライン](doc/line.md)
+* [小ネタ](doc/capture.md)
 
 ## Billing
 * [課金効率](doc/billing.md)
