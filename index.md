@@ -28,6 +28,7 @@ title: Home
 * [起源の戦域](doc/originofwar.md)
 * [謎の商人](doc/mysteriousvendor.md)
 * [九域](doc/domain9.md)
+* [九域 - 集結クエスト](doc/domain9quest.md)
 * [討伐作戦](doc/raid.md)
 * [辺境戦闘地帯](doc/frontierclash.md)
 * [ギルド](doc/guild.md)
