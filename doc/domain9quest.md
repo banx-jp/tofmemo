@@ -40,10 +40,7 @@
 | [35](img/domain9quest_img035.png) |  |  |  |  |  |  |  |  |  |
 | [36](img/domain9quest_img036.png) |  |  |  |  |  |  |  |  |  |
 | [37](img/domain9quest_img037.png) | ○ | ○ |  |  |  |  |  |  |  |
-![image](https://github.com/banx-jp/tofmemo/assets/113221441/80cda25f-75c4-44d9-8487-e28483ab8ac9)
 
-
-[1](img/domain9quest_img001.png)
 
 [![画像](img/domain9quest_img001.png)](img/domain9quest_img001.png)
 [![画像](img/domain9quest_img002.png)](img/domain9quest_img002.png)
