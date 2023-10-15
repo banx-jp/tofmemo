@@ -44,6 +44,7 @@ title: Home
 * [アップデート履歴](doc/updatehistory.md)
 * [ver3.0 update](doc/update3.0.md)
 * [ver3.1 update](doc/update3.1.md)
+* [ver3.2 update](doc/update3.2.md)
 
 ###### Social
 [![Twitter](doc/img/index_account_twitter.png)](https://twitter.com/BanxTera)
