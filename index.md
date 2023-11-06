@@ -15,6 +15,8 @@ title: Home
 ![tofver](doc/img/index_tofver25.png)
 ![tofver](doc/img/index_tofver30.png)
 ![tofver](doc/img/index_tofver31.png)
+![tofver](doc/img/index_tofver32.png)
+![tofver](doc/img/index_tofver33.png)
 
 ## Version 3.3 Event Calendar
 [![画像](doc/img/update3.3_img001.png)](doc/img/update3.3_img001.png)
