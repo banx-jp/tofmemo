@@ -1,3 +1,4 @@
+
 # 2024/03/12 Ver3.7 Update & Event
 
 ## Update
@@ -14,6 +15,8 @@
   * 期間限定討伐作戦「機兵演習」を開放
 
 ## Event
+![GIXZbBfbQAAOv5Y](https://github.com/banx-jp/tofmemo/assets/113221441/de9f1aec-e187-4e57-b38f-f8caf50bbc82)
+![GIXZc07bYAAsIri](https://github.com/banx-jp/tofmemo/assets/113221441/e320a38b-6703-4e02-b31f-701e856f1feb)
 
 ### ◤アスカ限定ガチャ◢
 
